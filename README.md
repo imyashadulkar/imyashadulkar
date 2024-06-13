@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-<img alt="Yash's GitHub streak" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=elaishane&hide_border=true&currStreakLabel=000000&ring=316dca&fire=316dca">
+<img alt="Yash's GitHub streak" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=imyashadulkar&hide_border=true&currStreakLabel=000000&ring=316dca&fire=316dca">
 
