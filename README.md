@@ -7,9 +7,9 @@
 
 <p align="center">
   🌐 <a href="https://imyashadulkar.com">Portfolio</a> •
-  💼 <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  🐦 <a href="https://twitter.com/YOUR_HANDLE">Twitter</a> •
-  📞 <a href="https://topmate.io/YOUR_LINK">Topmate</a>
+  💼 <a href="https://www.linkedin.com/in/yashadulkar/">LinkedIn</a> •
+  🐦 <a href="https://x.com/imyashadulkar">Twitter</a> •
+  📞 <a href="https://topmate.io/imyashadulkar/">Topmate</a>
 </p>
 
 ---
@@ -64,11 +64,11 @@ I enjoy designing systems, breaking down complex problems, and turning ideas int
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imyashadulkar&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyashadulkar&layout=compact" />
 </p>
 
 ---
