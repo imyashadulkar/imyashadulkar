@@ -61,18 +61,6 @@ I enjoy designing systems, breaking down complex problems, and turning ideas int
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imyashadulkar&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyashadulkar&layout=compact" />
-</p>
-
----
-
 ## 🎯 Vision
 
 Building impactful systems and products while growing towards product and business leadership.
